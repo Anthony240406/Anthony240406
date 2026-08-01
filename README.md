@@ -32,7 +32,7 @@
   
 > 🎓 **Carrera:** Ingeniería de Sistemas @ Universidad Nacional de Ingeniería (UNI) <br>
 > 💻 **Rol:** Full Stack Developer & Cloud Architect Student <br>
-> 🚀 **Liderazgo:** VP @ Centro Cultural Núcleo | Directivo @ LEAD UNI <br>
+> 🚀 **Liderazgo:** VP @ LEAD UNI | VP @ Centro Cultural Núcleo <br>
 > 🛠 **Stack:** React, Django, Spring Boot, NestJS, AWS <br>
 > 🧠 **Intereses:** Cloud, AI Generative <br>
 > 🌍 **Idiomas:** Español (Nativo), Inglés (Avanzado)
@@ -88,8 +88,8 @@
 <ul>
   <li><strong><a href="https://github.com/Anthony240406/YupanAl">YupanAI (Offline-first EdTech)</a>:</strong> 3er Puesto Hackathon FIIS 2025. Plataforma PWA educativa con chatbot IA (RAG) para zonas rurales.</li>
   <li><strong><a href="https://github.com/Anthony240406/Sistema_Produccion-QoriFoods">Qori Foods System</a>:</strong> Sistema industrial de gestión de producción y control de calidad. [Spring Boot, Vue.js].</li>
-  <li><strong><a href="https://github.com/Centro-Cultural-Nucleo/Nuweb-Backend">NuWeb Backend (CC Núcleo)</a>:</strong> API REST institucional escalable con gestión de roles. [Django REST Framework].</li>
-  <li><strong><a href="https://github.com/Anthony240406/folkuni-frontend">Folk UNI Web</a>:</strong> Plataforma oficial cultural con identidad visual moderna. [React 18, TypeScript].</li>
+  <li><strong><a href="https://github.com/Anthony240406/Portal-Reniec-DNIe">Portal Reniec DNIe</a>:</strong> Propuesta de plataforma web centralizada para optimizar el proceso de renovación del DNIe. [React 19, TypeScript, Tailwind].</li>
+  <li><strong><a href="https://github.com/Anthony240406/wms-qori-foods">WMS Qori Foods</a>:</strong> Sistema web de gestión de almacén de insumos (WMS). [React 19, Tailwind, Node.js].</li>
   <li><strong><a href="https://github.com/leaduni/web-page">LEAD UNI Web</a>:</strong> Web institucional con organigramas interactivos. [React, Framer Motion].</li>
 </ul>
 
